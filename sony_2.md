@@ -7,10 +7,10 @@
 
 <body bgcolor="khaki" leftmargin="100" topmargin="50" rightmargin="50" bottommargin="50" text="gray" alink="green" vlink="red">
 
-         <audio controls>
+         <audio>
            <source src="https://ru.hitmotop.com/get/music/20190202/FACE_-_RYT_61822143.mp3">
          </audio><br>
-         <audio controls>
+         <audio>
            <source src="https://ru.hitmotop.com/get/music/20190603/FACE_-_Zabirajj_vsjo_chto_khochesh_64742026.mp3">
          </audio>
 <ol>
