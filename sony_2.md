@@ -5,9 +5,7 @@
     <meta charset="utf-8">
 </head>
 
-<body bgcolor="khaki" leftmargin="100" topmargin="50">
-         rightmargin="50" bottommargin="50" text="gray"
-         alink="green" vlink="red">
+<body bgcolor="khaki" leftmargin="100" topmargin="50" rightmargin="50" bottommargin="50" text="gray" alink="green" vlink="red">
 
          <audio controls>
            <source src="https://ru.hitmotop.com/get/music/20190202/FACE_-_RYT_61822143.mp3">
