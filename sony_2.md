@@ -5,7 +5,7 @@
     <meta charset="utf-8">
 </head>
 
-<body bgcolor="khaki" leftmargin="100" topmargin="50"
+<body bgcolor="khaki" leftmargin="100" topmargin="50">
          rightmargin="50" bottommargin="50" text="gray"
          alink="green" vlink="red">
 
