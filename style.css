@@ -6,10 +6,10 @@ body{
 
 #header{
 background:darkred;
-width:1000px;
+width:850px;
 height:100px;
 position:absolute;
-left:100px;
+left:50px;
 top:0px;
 }
 #menu{
@@ -34,16 +34,15 @@ width:715px;
 height:30px;
 position:absolute;
 left:100px;
-top:600px;
+top:110px;
 }
      
 #news{
-background:yellow;
+background:#FFD700;
 width:150px;
 height:280px;
 position:absolute;
 left:365px;
-top:10px;
+top:1000px;
 }
-
      
