@@ -6,7 +6,7 @@ body{
 
 #header{
 background:darkred;
-width:1150px;
+width:1000px;
 height:100px;
 position:absolute;
 left:100px;
@@ -45,4 +45,5 @@ position:absolute;
 left:365px;
 top:10px;
 }
+
      
