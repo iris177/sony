@@ -1,32 +1,120 @@
 
 body{
-  background-color:#87CEFA;
+  background-color:#808080;
   margin:0px;
 }
 
-#header{
-background:darkred;
-width:900px;
-height:100px;
+#website_header{
+background:#FFFFFF;
+width:1200px;
+height:75px;
 position:absolute;
-left:50px;
+left:0px;
 top:0px;
 }
-#menu{
-background:#ADFF2F;
-width:190px;
-height:300px;
-position:absolute;
-left:100px;
-top:100px;
+
+a#ad{
+  font-family: Verdana, serif;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  margin-left: 60px;
+  color:black;
+  text-decoration:none;
 }
-#content{
-background:#FF69B4;
-width:525px;
-height:300px;
+
+a#ae{
+  font-family: Verdana, serif;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  margin-left: 60px;
+  color:black;
+  text-decoration:none;
+}
+#menu{
+background:#4169E1;
+color:white;
+width:1200px;
+height:50px;
 position:absolute;
-left:100px;
-top:300px;
+left:0px;
+top:75px;
+}
+
+a#aa{
+  font-family: Verdana, serif;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  margin-left: 60px;
+  color:white;
+  text-decoration:none;
+}
+a#aa:hover{
+  color:red;
+}
+
+a#ab{
+  font-family: Verdana, serif;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  margin-left: 20px;
+  color:white;
+  text-decoration:none;
+}
+a#ab:hover{
+  color:red;
+}
+
+a#ac{
+  font-family: Verdana, serif;
+  padding-top: 10px;
+  padding-right: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+
+  margin-top: 0px;
+  margin-right: 20px;
+  margin-bottom: 0px;
+  margin-left: 20px;
+  color:white;
+  text-decoration:none;
+}
+a#ac:hover{
+  color:red;
+}
+
+
+
+#content{
+background:#FFFFFF;
+width:1200px;
+height:2000px;
+position:absolute;
+left:0px;
+top:125px;
 }
 #footer{
 background:darkred;
@@ -34,7 +122,7 @@ width:715px;
 height:30px;
 position:absolute;
 left:100px;
-top:110px;
+top:500px;
 }
      
 #news{
@@ -43,7 +131,6 @@ width:150px;
 height:280px;
 position:absolute;
 left:365px;
-top:1000px;
+top:100px;
 }
      
-
