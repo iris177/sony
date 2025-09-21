@@ -116,6 +116,8 @@ position:absolute;
 left:0px;
 top:125px;
 }
+
+
 #footer{
 background:#4169E1;
 width:1200px;
@@ -123,14 +125,5 @@ height:50px;
 position:absolute;
 left:0px;
 top:2125px;
-}
-     
-#news{
-background:yellow;
-width:150px;
-height:280px;
-position:absolute;
-left:365px;
-top:100px;
 }
      
