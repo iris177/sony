@@ -14,7 +14,8 @@ top:0px;
 }
 
 a#ad{
-  font-family: Verdana, serif;
+  font-family: Verdana, sans-serif;
+  font-weight:bold;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
