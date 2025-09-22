@@ -135,13 +135,13 @@ p#bb{
   height:50px;
   position:absolute;
   left:100px;
-  top:8000px;
+  top:800px;
   color:AntiqueWhite;
 }
 
 p#aj{
-  font-family: Verdana, serif;
-  font-size:60px;
+  font-family: Verdana, sans-serif;
+  font-weight:bold;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
