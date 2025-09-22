@@ -106,7 +106,7 @@ top:125px;
 
 p#ae{
   font-family: Verdana, serif;
-  font-size:40px;
+  font-size:60px;
   padding-top: 10px;
   padding-right: 10px;
   padding-bottom: 10px;
@@ -125,6 +125,7 @@ height:50px;
 position:absolute;
 left:100px;
 top:250px;
+color:white;
 } 
 
 
